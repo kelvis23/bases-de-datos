@@ -15,3 +15,24 @@ Otro lista ordenada:
  - Importante
  - recordar
  3. Tercer paso
+
+## Más cositas
+Enlace a [ la web del kermel](https://kermel.org).
+
+Codigo:
+
+- Esto es  `insert into` en formato line.
+- Lo siguiente es un Bloke de codigo:
+
+  ```
+  CREATE TABLE gatito(
+    cabeza VARCHAR (255),
+   PATITAS INT
+  );
+  ```
+  TAMBIEN SI INDENTAMOS CON VARIOS ESPASIOS:
+  
+          CREATE TABLE table(
+             a INT
+          );
+          ```
