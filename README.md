@@ -24,7 +24,7 @@ Codigo:
 - Esto es  `insert into` en formato line.
 - Lo siguiente es un Bloke de codigo:
 
-  ```
+  ```sql
   CREATE TABLE gatito(
     cabeza VARCHAR (255),
    PATITAS INT
