@@ -1,5 +1,6 @@
 # bases-de-datos
 esta es la descripsion del proyecto
+Puedes ver [mis notas](/directorio/mis-notas)
 
 ![ una mano](mano.png)
 
