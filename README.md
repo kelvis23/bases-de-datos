@@ -1,6 +1,7 @@
 # bases-de-datos
 esta es la descripsion del proyecto
 Puedes ver [mis notas](/directorio/mis-notas.md)
+cabios
 
 ![ una mano](mano.png)
 
