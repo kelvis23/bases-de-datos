@@ -2,4 +2,4 @@
 
 hola, esto es **negrita**:-)
 
-puedes ir [ al REDME principal](REDME principal]
+puedes ir [ al REDME principal](/REDME.md).
